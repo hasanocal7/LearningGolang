@@ -1,0 +1,4 @@
+# example.com/greetings v1.1.0 => ../greetings
+## explicit; go 1.21.5
+example.com/greetings
+# example.com/greetings => ../greetings
